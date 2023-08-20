@@ -1,5 +1,5 @@
-# langchain_test
-The program can chat with Chat GPT forever using LangChain.
+# LangChain test
+This program can chat with Chat GPT forever using LangChain.
 # Getting Started
 After downloading the file, find the following section and replace it with your API key.
 ```
